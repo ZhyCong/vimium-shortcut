@@ -42,4 +42,4 @@ yt:复制当前标签并打开
 
 T:显示浏览器打开的所有URL
 ## 了解
-![](./img/short-cut.png)
+[Chrome vimium快捷键大全](https://github.com/philc/vimium#keyboard-bindings)
